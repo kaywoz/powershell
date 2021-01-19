@@ -1,4 +1,5 @@
 ##Azure Resource,IP-inventory.ps1
+## to inventory all AZ assets...
 
 Connect-AzAccount
 
